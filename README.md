@@ -60,49 +60,6 @@ My interests span both sides of engineering — from writing software in **C, C+
 
 ---
 
-## 🚀 Featured Project
-
-### ⚡ Non-Isolated AC-DC Power Module
-
-**230V AC → ~5V DC Power Supply**
-
-A practical AC-DC power module designed using **KiCad**, covering circuit design, PCB layout and hardware implementation.
-
-### 🔧 Design Flow
-
-```text
-230V AC
-   │
-   ▼
-┌─────────────────────┐
-│ Capacitive          │
-│ Voltage Dropper     │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ Bridge Rectifier    │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ Filtering Stage     │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ Zener Regulation    │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ 7805 Regulation     │
-└──────────┬──────────┘
-           │
-           ▼
-         ~5V DC
-```
-
 ### 🛠️ Technologies & Tools
 
 * KiCad
