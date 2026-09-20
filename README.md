@@ -2,7 +2,6 @@
 
 ### Electronics & Computer Engineering Student
 
-### Hardware × Software × Embedded Systems
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Electronics+%C3%97+Software;PCB+Design+%C3%97+Embedded+Systems;Hardware+%C3%97+Programming;Designing+%7C+Building+%7C+Debugging+%7C+Improving" alt="Typing SVG" />
@@ -94,49 +93,55 @@ I enjoy taking projects from an initial idea to a tested and working system.
 
 # 🔌 Electronics & PCB Design
 
+# 🔌 Electronics & PCB Design
+
 <p align="center">
 
-<img src="https://cdn.simpleicons.org/kicad/314CB0" width="80" height="80" alt="KiCad" />
+  <img src="https://cdn.simpleicons.org/kicad/314CB0" width="85" height="85" alt="KiCad" />
 
-    
+        
 
-<img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="80" height="80" alt="Altium Designer" />
+  <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="85" height="85" alt="Altium Designer" />
 
 </p>
 
 <p align="center">
   <b>KiCad</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>Altium Designer</b>
 </p>
 
-### 📐 PCB & Hardware
+### 📐 PCB Design
 
-| Area             | Skills                                  |
-| ---------------- | --------------------------------------- |
-| 📋 Schematic     | Circuit schematics, component selection |
-| 🧩 PCB           | PCB layout, routing, footprints         |
-| ✅ Verification   | Design Rule Checking                    |
-| 🧊 Visualization | PCB 3D visualization                    |
-| 🔧 Hardware      | Prototyping & debugging                 |
-| ⚡ Design         | Analog, digital & power circuits        |
+* 📋 Schematic Design
+* 🧩 PCB Layout
+* 🔗 Component Selection
+* 🔧 Circuit Design
+* 🛣️ PCB Routing
+* ✅ Design Rule Checking
+* 🧊 PCB 3D Visualization
+* 🐛 Hardware Debugging
+* 📦 Footprint & Library Management
 
----
+
+# 🧪 Circuit Simulation
 
 # 🧪 Circuit Simulation
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/LTspice-B02A37?style=for-the-badge&logoColor=white" height="38" alt="LTspice" />
+  <img src="https://img.shields.io/badge/LTspice-B02A37?style=for-the-badge&logo=analogdevices&logoColor=white" height="40" alt="LTspice" />
 
-  
+   
 
-<img src="https://img.shields.io/badge/Multisim-00599C?style=for-the-badge&logoColor=white" height="38" alt="Multisim" />
+  <img src="https://img.shields.io/badge/Multisim-00599C?style=for-the-badge&logoColor=white" height="40" alt="Multisim" />
 
 </p>
 
 <p align="center">
-  <b>LTspice</b> • <b>Multisim</b>
+  <b>LTspice</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Multisim</b>
 </p>
 
 ### 📊 Simulation & Analysis
@@ -148,6 +153,7 @@ I enjoy taking projects from an initial idea to a tested and working system.
 * 💻 Digital Circuit Simulation
 * ⚡ Power-Supply Simulation
 * ✅ Circuit Verification
+
 
 ---
 
