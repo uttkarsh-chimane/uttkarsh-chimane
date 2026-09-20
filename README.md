@@ -3,7 +3,7 @@
 ### Electronics & Computer Engineering Student | Hardware × Software
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Electronics+%C3%97+Software;PCB+Design+%C3%97+Programming;Hardware+%C3%97+Embedded+Systems;Building+%7C+Testing+%7C+Debugging+%7C+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Electronics+%C3%97+Software;PCB+Design+%C3%97+Programming;Hardware+%C3%97+Embedded+Systems;Building+%7C+Testing+%7C+Debugging+%7C+Improving" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,18 +19,20 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Electronics & Computer Engineering** student interested in building practical systems at the intersection of **electronics, software, PCB design, embedded systems, and computer engineering**.
+I'm an **Electronics & Computer Engineering** student focused on building practical systems at the intersection of:
+
+**Electronics • Software • PCB Design • Embedded Systems • Computer Engineering**
 
 I enjoy taking an idea through the complete engineering cycle:
 
 ```text
 💡 Idea
    ↓
-📋 Design
+📐 Design
    ↓
-🧠 Circuit / Code
+🧠 Circuit + Code
    ↓
-🧪 Simulation
+🧪 Simulate
    ↓
 🔧 Build
    ↓
@@ -43,32 +45,32 @@ I enjoy taking an idea through the complete engineering cycle:
 🚀 Working System
 ```
 
-My interests span both sides of engineering — from writing software in **C, C++, Python and Java** to designing and simulating circuits using **KiCad, Altium Designer, LTspice and Multisim**.
+My interests range from programming with **C, C++, Python, Java and JavaScript** to designing, simulating and debugging electronic systems using **KiCad, Altium Designer, LTspice and Multisim**.
 
 ---
 
-## 🔭 I'm Currently Working On
+## 🔭 Currently Working On
 
-* 🔌 Electronics and PCB design projects
-* ⚡ Power electronics and power-supply concepts
+* 🔌 Electronics & PCB design
+* ⚡ Power electronics & power supplies
 * 🤖 Embedded systems
-* 🌐 Hardware–software integration
+* 🔗 Hardware–software integration
 * 💻 Software development
 * 🌐 Web development
-* 🧠 Practical engineering projects
-* 🚀 Turning prototypes into reliable working systems
+* 🧪 Engineering prototypes
+* 🚀 Turning prototypes into reliable systems
 
 ---
 
 # 🛠️ Tech Stack
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
 </p>
 
-**C** • **C++** • **Python** • **Java** • **JavaScript**
+**C • C++ • Python • Java • JavaScript**
 
 ---
 
@@ -78,19 +80,23 @@ My interests span both sides of engineering — from writing software in **C, C+
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-**HTML** • **CSS** • **JavaScript**
+**HTML • CSS • JavaScript**
 
 ---
 
 ## 🔧 Electronics & PCB Design
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kicad" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=kicad" height="55" alt="KiCad" />
+
+<img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" height="35" alt="Altium Designer" />
+
 </p>
 
-**KiCad** • **Altium Designer**
+**KiCad • Altium Designer**
 
-### Experience / Areas
+### 🔩 Areas
 
 * Schematic Design
 * PCB Layout
@@ -105,9 +111,17 @@ My interests span both sides of engineering — from writing software in **C, C+
 
 ## 🧪 Circuit Simulation
 
-**LTspice** • **Multisim**
+<p align="left">
 
-### Areas
+<img src="https://img.shields.io/badge/LTspice-8A2BE2?style=for-the-badge&logo=ltspice&logoColor=white" height="35" alt="LTspice" />
+
+<img src="https://img.shields.io/badge/Multisim-00599C?style=for-the-badge&logo=ni&logoColor=white" height="35" alt="Multisim" />
+
+</p>
+
+**LTspice • Multisim**
+
+### 📊 Simulation Areas
 
 * Analog Circuit Simulation
 * Digital Circuit Simulation
@@ -119,64 +133,7 @@ My interests span both sides of engineering — from writing software in **C, C+
 
 ---
 
-# 🤝 I'm Looking to Collaborate On
-
-I'm interested in collaborating on projects involving:
-
-* 🔌 Electronics
-* 🤖 Embedded Systems
-* 🌐 IoT
-* ⚡ Power Electronics
-* 💻 Software Development
-* 🌐 Web Applications
-* 🔧 PCB Design
-* 🧠 Hardware + Software
-* 🚀 Open-Source Projects
-* 🧪 Engineering Prototypes
-
-> **If hardware needs to talk to software, I'm interested.**
-
----
-
-# 🆘 I'm Looking for Help With
-
-I'm looking to improve my skills in:
-
-* Advanced PCB design
-* Embedded systems
-* Microcontrollers
-* Hardware debugging
-* Power electronics
-* Hardware–software communication
-* System-level design
-* Production-oriented engineering
-* Building scalable software around hardware
-
----
-
-# 🌱 Currently Exploring
-
-I already work with the technologies listed above, so my current focus is on going **deeper rather than simply collecting more technologies**.
-
-```text
-Embedded Systems
-        │
-        ▼
-Hardware + Software
-        │
-        ▼
-IoT & Connected Devices
-        │
-        ▼
-System-Level Engineering
-        │
-        ▼
-Complete Working Products
-```
-
----
-
-# 🧠 Engineering Interests
+# ⚙️ Engineering Interests
 
 <table>
 <tr>
@@ -224,7 +181,64 @@ JavaScript
 
 ---
 
-# ⚙️ My Engineering Philosophy
+# 🤝 Open to Collaboration
+
+I'm interested in collaborating on projects involving:
+
+* 🔌 Electronics
+* 🤖 Embedded Systems
+* 🌐 IoT
+* ⚡ Power Electronics
+* 💻 Software Development
+* 🌐 Web Applications
+* 🔧 PCB Design
+* 🧠 Hardware + Software
+* 🚀 Open Source
+* 🧪 Engineering Prototypes
+
+> **If hardware needs to talk to software, I'm interested.**
+
+---
+
+# 🆘 Areas I'm Improving
+
+I'm currently going deeper into:
+
+* Advanced PCB Design
+* Embedded Systems
+* Microcontrollers
+* Hardware Debugging
+* Power Electronics
+* Hardware–Software Communication
+* System-Level Design
+* Production-Oriented Engineering
+* Scalable Software for Hardware
+
+---
+
+# 🌱 Currently Exploring
+
+I prefer going **deeper rather than simply collecting technologies**.
+
+```text
+        Embedded Systems
+                │
+                ▼
+       Hardware + Software
+                │
+                ▼
+        IoT & Connected Devices
+                │
+                ▼
+       System-Level Engineering
+                │
+                ▼
+        Complete Working Products
+```
+
+---
+
+# 🧠 Engineering Philosophy
 
 ```text
 Don't just make it work.
@@ -232,6 +246,7 @@ Don't just make it work.
 Make it understandable.
 Make it testable.
 Make it reliable.
+
 Then make it better.
 ```
 
@@ -241,9 +256,11 @@ Then make it better.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=uttkarsh-chimane&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=uttkarsh-chimane&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttkarsh-chimane&layout=compact&hide_border=true&theme=transparent" />
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttkarsh-chimane&layout=compact&hide_border=true&theme=transparent" />
 
 </p>
 
@@ -303,8 +320,8 @@ Then make it better.
 
 <p align="center">
 
-### ⚡ ELECTRONICS × SOFTWARE × ENGINEERING
+## ⚡ ELECTRONICS × SOFTWARE × ENGINEERING
 
-**Build it. Test it. Break it. Understand it. Improve it.**
+### Build it. Test it. Break it. Understand it. Improve it.
 
 </p>
