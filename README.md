@@ -1,4 +1,3 @@
-#                     Uttkarsh Chimane
 
 ### Electronics & Computer Engineering Student
 
