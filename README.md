@@ -60,28 +60,6 @@ My interests span both sides of engineering — from writing software in **C, C+
 
 ---
 
-### 🛠️ Technologies & Tools
-
-* KiCad
-* PCB Design
-* Circuit Design
-* AC-DC Conversion
-* Bridge Rectification
-* Filtering
-* Zener Regulation
-* 7805 Voltage Regulation
-* PCB 3D Visualization
-
-### ⚠️ Safety
-
-This is a **non-isolated mains-powered design**. The output is not galvanically isolated from the 230V AC input and must be treated as a hazardous-voltage circuit.
-
-### 🔗 Project
-
-[**View Non-Isolated AC-DC Power Module →**](https://github.com/uttkarsh-chimane/Non-Isolated-AC-DC-Power-Module)
-
----
-
 # 🛠️ Tech Stack
 
 ## 👨‍💻 Programming Languages
