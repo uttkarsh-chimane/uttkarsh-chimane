@@ -20,10 +20,10 @@
 </a>
 
 <a href="https://github.com/uttkarsh-chimane">
-<img src="https://img.shields.io/github/followers/sufyan933?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/uttkarsh-chimane?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sufyan933&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=uttkarsh-chimane&style=for-the-badge&color=blueviolet"/>
 
 <br><br>
 
