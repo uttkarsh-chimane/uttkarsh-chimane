@@ -146,68 +146,17 @@ My transition into RF PCB design reinforced this approach. Instead of limiting l
 
 ---
 
-# 📊 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyan933&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-
----
-
-# 💬 Engineering Mindset
-
-<div align="center">
-
-> **"Great engineers don't just solve problems — they build solutions that last."**
-
-</div>
-
-I approach engineering with a **build → test → debug → improve** mindset.
-
-My goal is not simply to learn technologies individually, but to understand how **electronics, software, PCB design, control, and robotics** work together to create reliable real-world systems.
-
----
-
-# 🤝 Contributing & Contact
-
-This profile documents my journey as an **Electrical Engineering student focused on hardware, embedded systems, PCB design, RF, power electronics, and robotics**.
-
-I'm always interested in:
-
-- 🔌 PCB design and hardware development
-- 📡 RF and wireless systems
-- 🤖 Robotics and ROS 2
-- ⚡ Power electronics
-- 🔧 Embedded systems
-- 🧠 Engineering automation
-- 🌍 Open-source hardware projects
-
-If you'd like to **collaborate on a project, discuss an engineering idea, or exchange knowledge**, feel free to connect.
-
-### 🙏 Acknowledgements
-
-I would like to acknowledge **PIEAS**, **IEEE PIEAS Student Branch**, **InnovateX PIEAS**, **ArboTrix Lab**, **NYLP**, and **Alkhidmat Foundation** for the opportunities, experiences, and learning environments that have contributed to my development.
-
-I also make extensive use of technical documentation and application notes while developing hardware, including **STMicroelectronics AN5165** as a reference for RF and Bluetooth PCB design.
-
----
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/muhammad-sufyan-6214752b8">
+<a href="https://www.linkedin.com/in/uttkarsh-chimane">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:arhamsufyan5@gmail.com">
+<a href="uttkarshchimane9915@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/sufyan933">
+<a href="https://github.com/sufyan933](https://github.com/uttkarsh-chimane">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
