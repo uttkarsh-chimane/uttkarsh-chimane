@@ -82,6 +82,7 @@ My transition into RF PCB design reinforced this approach. Instead of limiting l
 </p>
 
 **Core:** C • C++ • Python • HTML • CSS • Javascript 
+
 **Interests:** Embedded Programming • Automation • Circuit Analysis
 
 ---
