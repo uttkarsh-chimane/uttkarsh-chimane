@@ -75,10 +75,13 @@ My transition into RF PCB design reinforced this approach. Instead of limiting l
 ### 💻 Programming
 
 <p align="left">
+  
 <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+ 
 </p>
 
-**Core:** C • C++ • Python  
+**Core:** C • C++ • Python • HTML • CSS • Javascript 
 **Interests:** Embedded Programming • Automation • Circuit Analysis
 
 ---
