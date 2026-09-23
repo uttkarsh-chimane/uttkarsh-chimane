@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://">
+<a href="https://github.com/uttkarsh-chimane">
 <img src="https://img.shields.io/github/followers/sufyan933?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
