@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24&text=Uttkarsh%20Chimane&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Electronics%20and%20Computer%20Engineering%20Student%20%7C%20PCB%20Designer%20%7C%20Embedded%20Systems%20%&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Electronics+&+Computer+Engineering+Student+at+SPPU;PCB+Design+%7C+Embedded+Systems+%7C;Building+Hardware+that+Solves+Real+Problems;Exploring+Power+Electronics" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Electronics+%26+Computer+Engineering+Student+at+SPPU;PCB+Design+%7C+Embedded+Systems+%7C;Building+Hardware+That+Solves+Real+Problems;Exploring+Power+Electronics" />
 
 <br>
 
