@@ -30,8 +30,6 @@
 <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white"/>
 <img src="https://img.shields.io/badge/Altium-008080?style=flat-square&logo=altiumdesigner&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white"/>
 <img src="https://img.shields.io/badge/PCB%20Design-4B0082?style=flat-square"/>
 <img src="https://img.shields.io/badge/Open%20to%20Collaboration-2ea44f?style=flat-square"/>
 
@@ -41,13 +39,11 @@
 
 # 👋 About Me
 
-I'm **Muhammad Sufyan**, a **B.S. Electrical Engineering student at PIEAS** focused on building practical skills across **PCB design, embedded systems, robotics, RF hardware, and power electronics**.
+I'm **Uttkarsh Chimane**, a **Electronics & Computer Engineering student at SPPU University** focused on building practical skills across **PCB design, embedded systems, Programming and power electronics**.
 
-I enjoy taking engineering concepts from **schematics and simulations to physical hardware**. My work spans multi-layer PCB design, embedded programming, circuit analysis, power electronics, and robotics, with a strong emphasis on hands-on development, debugging, and continuous learning.
+I enjoy taking engineering concepts from **schematics and simulations to physical hardware**. My work spans PCB design, embedded programming, circuit analysis, power electronics with a strong emphasis on hands-on development, debugging, and continuous learning.
 
-Currently, I'm expanding my expertise in **ROS 2 and robotics**, while advancing my skills in **RF and wireless PCB design** and exploring modern embedded platforms such as **ESP32 and STM32**.
-
-> 🚀 **Latest Build:** A 4-layer Bluetooth Low Energy PCB — my first dedicated project in RF PCB design, featuring antenna filtering, impedance-matching considerations, and a dedicated ground plane.
+Currently, I'm expanding my expertise in **Multi-Layered PCB Designs and Circuit Analysis**, while advancing my skills in **(KiCAD + Altium) PCB Designs** and exploring modern embedded platforms such as **ESP32 and STM32**.
 
 ---
 
