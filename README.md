@@ -66,8 +66,6 @@ I believe engineering is learned through **designing, building, testing, debuggi
 
 Every project is an opportunity to connect theoretical concepts with practical engineering. From circuit analysis and power electronics to multi-layer PCB design and robotics, I focus on understanding not only **how a system works**, but also **why it works** and how it can be improved.
 
-My transition into RF PCB design reinforced this approach. Instead of limiting learning to theory, I applied it through an actual 4-layer wireless board, learning about **RF return paths, ground-plane continuity, impedance considerations, antenna matching, and component placement** along the way.
-
 ---
 
 # 🛠️ Technical Skills
