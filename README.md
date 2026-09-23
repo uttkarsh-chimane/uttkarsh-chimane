@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24&text=Uttkarsh%20Chimane&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Electronics%20and%20Computer%20Engineering%20Student%20%7C%20PCB%20Designer%20%7C%20Embedded%20Systems%20%&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Electrical+Engineering+Student+at+PIEAS;PCB+Design+%7C+Embedded+Systems+%7C+ROS+2;RF+%26+Wireless+Hardware+Enthusiast;Building+Hardware+that+Solves+Real+Problems;Exploring+Power+Electronics+%26+Robotics;CGPA+3.99+%2F+4.00" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Electrical+Engineering+Student+at+SPPU;PCB+Design+%7C+Embedded+Systems+%7C+ROS+2;RF+%26+Wireless+Hardware+Enthusiast;Building+Hardware+that+Solves+Real+Problems;Exploring+Power+Electronics+%26+Robotics;CGPA+3.99+%2F+4.00" />
 
 <br>
 
@@ -126,26 +126,6 @@ My transition into RF PCB design reinforced this approach. Instead of limiting l
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sufyan933&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyan933&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sufyan933&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/uttkarsh-chimane">
@@ -156,17 +136,17 @@ My transition into RF PCB design reinforced this approach. Instead of limiting l
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/sufyan933](https://github.com/uttkarsh-chimane">
+<a href="https://github.com/uttkarsh-chimane](https://github.com/uttkarsh-chimane">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-### 💙 Thanks for visiting my profile!
+### ❣️ Thanks for visiting my profile!
 
 **Always learning. Always building. Always improving.**
 
-*Interested in collaborating on PCB Design, RF Hardware, Embedded Systems, Robotics, and Power Electronics projects.*
+*Interested in collaborating on PCB Design, Embedded Systems, and Power Electronics projects.*
 
 <br>
 
