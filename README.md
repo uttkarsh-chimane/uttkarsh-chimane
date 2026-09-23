@@ -83,25 +83,7 @@ My transition into RF PCB design reinforced this approach. Instead of limiting l
 
 ---
 
-### 🤖 Embedded Systems & Robotics
-
-<p align="left">
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-</p>
-
-- Arduino-based embedded systems
-- ESP32 development
-- STM32 exploration
-- Sensor and actuator integration
-- Embedded C/C++
-- ROS 2 fundamentals
-- Robotics simulation
-- Linux-based robotics workflows
-
----
-
-### 🔌 PCB Design, RF & Electronics
+### 🔌 PCB Design & Electronics
 
 <p align="left">
 <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
@@ -111,13 +93,13 @@ My transition into RF PCB design reinforced this approach. Instead of limiting l
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
-**Areas of Interest & Experience:**
+**Areas of Interest & Exploring:**
 
 - Multi-layer PCB Design
 - Schematic Capture & PCB Layout
 - Power & Ground Plane Design
 - Signal Integrity Fundamentals
-- RF PCB Design Fundamentals
+- PCB Design Fundamentals
 - Antenna Matching Networks
 - Controlled-Impedance Concepts
 - Power Electronics
@@ -131,188 +113,16 @@ My transition into RF PCB design reinforced this approach. Instead of limiting l
 ### 📚 Engineering & Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
 - Git & GitHub
 - Visual Studio Code
-- Linux
-- LaTeX / Overleaf
 - MATLAB
 - LTspice
 - Multisim
 - Engineering documentation
-
----
-
-# 💼 Experience
-
-## 🤖 ROS 2 Intern | ArboTrix Lab
-
-**July 2026 – Present**
-
-Working on the foundations of robotics software and autonomous systems through hands-on ROS 2 development.
-
-**Areas of Work:**
-
-- ROS 2 architecture and package structure
-- Publisher / Subscriber communication
-- Robotics simulation
-- Linux-based robotics workflows
-- Robot description and simulation concepts
-- Building foundations for autonomous robotic systems
-
----
-
-## 🤝 Volunteer Intern | Alkhidmat Foundation
-
-Contributed to community-oriented initiatives while developing practical experience in teamwork, coordination, and event operations.
-
-**Responsibilities & Experience:**
-
-- Community service initiatives
-- Team collaboration
-- Event management
-- Volunteer coordination
-- Operational support
-
----
-
-# 🚀 Featured Projects
-
-## 📡 Bluetooth LE 4-Layer PCB
-
-> **KiCad 10 • RF / Bluetooth Design • Multi-Layer PCB**
-
-My first dedicated project in **RF PCB design**: a 4-layer Bluetooth Low Energy board exploring the hardware requirements of wireless systems.
-
-**Key Design Areas:**
-- **Antenna Front-End:** Pi-matching network with TDK low-pass filter ahead of U.FL antenna connector
-- **PCB Stackup:** 4-layer architecture with dedicated inner ground plane for improved RF return paths
-- **RF Routing:** Controlled-impedance concepts with continuous return-path considerations
-- **Power Delivery:** Internal SMPS buck-converter using 10 nH / 10 µH inductor pairing
-- **Input Protection:** USB-C power input with ESD protection
-
-**Highlights:**
-📡 Bluetooth LE Hardware • 🎯 Pi-Matching Network • 📶 TDK Low-Pass Filter • 🔌 U.FL Antenna Connector • 🧱 4-Layer PCB • 🌐 Dedicated Ground Plane • 📐 RF Return-Path & Impedance Considerations • ⚡ Internal SMPS Power Regulation • 🛡️ USB-C ESD Protection • 📖 Designed using ST AN5165 as primary reference
-
----
-
-## 🐍 Python AC & DC Circuit Analysis Tool
-
-> **Python • Circuit Theory • Automated Analysis**
-
-Python-based circuit analysis tool automating electrical network calculations for DC operating-point and AC steady-state analysis across multi-node circuits.
-
----
-
-## 🧲 Maglev Train Conceptual Pitch
-
-> **Genesis 3.0 Runner-Up • Linear Propulsion • Electromagnetics**
-
-Conceptual Maglev transportation system pitch exploring electromagnetic levitation, linear propulsion, and high-speed mass transit feasibility.
-
-🏆 **Achievement:** Runner-Up at Genesis 3.0 Pitch Competition
-
----
-
-## 🔌 IoT Custom ESP32 4-Layer PCB
-
-> **KiCad • ESP32 • Multi-Layer PCB Design**
-
-Custom 4-layer ESP32 development board with dedicated power/ground planes, USB interface, and compact architecture for IoT applications.
-
----
-
-## ⚡ DC-DC Buck & Boost Converter PCB
-
-> **KiCad • Power Electronics • Switching Regulators**
-
-PCB implementations of buck and boost switching converters with optimized component placement, thermal considerations, and power integrity.
-
----
-
-## 🔋 AC to DC Regulated Power Supply
-
-> **Analog Electronics • Power Supply • PCB Design**
-
-Regulated AC-to-DC power supply design covering transformer-based conversion, full-wave rectification, capacitor filtering, and voltage regulation.
-
----
-
-## 🔒 Smart Home Lock System
-
-> **Arduino • Embedded C++ • Security System**
-
-Arduino-based electronic door-lock system with password authentication, EEPROM storage, servo-based locking, LCD interface, and failed-attempt lockout.
-
----
-
-## 📡 Arduino Radar System
-
-> **Arduino • Servo Motor • HC-SR04**
-
-Radar-style scanning system combining servo motor with ultrasonic sensor for object detection across a scanning range with real-time distance visualization.
-
----
-
-## 🚗 Smart Parking Assistant
-
-> **Arduino • Ultrasonic Sensor • Embedded Systems**
-
-Parking assistance system measuring obstacle distance with visual and audible feedback for proximity detection.
-
----
-
-## 🏠 Residential House Wiring — CEP Project
-
-> **Electrical Engineering • Power Distribution • Electrical Safety**
-
-Residential electrical wiring system design covering load calculations, breaker sizing, grounding design, voltage-drop analysis, and electrical safety planning.
-
----
-
-# 📜 Certifications & Bootcamps
-
-### 💻 Programming & Computer Science
-
-- 🏅 **CS50P: Introduction to Programming with Python** — Harvard University
-
-### 🔌 PCB Design & Electronics
-
-- 🏅 **Altium Designer PCB Design Course** — Professional Certification
-- 🏅 **PCB Design Course** — Simplilearn
-- 🏅 **MATLAB Onramp** — MathWorks
-- 🏅 **Introduction to MATLAB** — Simplilearn
-
-### 🤖 AI & Machine Learning
-
-- 🏅 **Machine Learning Bootcamp** — GDG PIEAS
-- 🏅 **AI Bootcamp** — PIEAS AI Society
-- 🏅 **AI Fluency Certificate** — Anthropic
-- 🏅 **AI for Business Professionals** — HP LIFE
-- 🏅 **AI Visibility Toolkit** — Semrush
-
----
-
-# 👨‍💼 Leadership & Activities
-
-- 🏆 **Runner-Up — Genesis 3.0 Pitch Competition**
-  - Presented a conceptual Maglev transportation system focused on electromagnetic levitation and linear propulsion.
-
-- 🎤 **Campus Ambassador — National Youth Leadership Program (NYLP)**
-
-- 🎤 **Campus Ambassador — The Leap Pakistan**
-
-- 🎤 **Campus Ambassador — Paragon Study Abroad Expo**
-
-- 🛠️ **Management Team — IEEE PIEAS Student Branch**
-
-- 🛠️ **Management Team — PIEAS Open House**
-
-- 🛠️ **Management Team — InnovateX PIEAS**
 
 ---
 
