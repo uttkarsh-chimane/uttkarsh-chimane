@@ -47,91 +47,14 @@ Currently, I'm expanding my expertise in **Multi-Layered PCB Designs and Circuit
 
 ---
 
-## ⭐ Highlights
-
-- 🎓 **3.99 / 4.00 CGPA** — B.S. Electrical Engineering, PIEAS
-- 🥇 **1st Position in Pre-Engineering** — FSc, **1025 / 1100**
-- 🔌 **9+ hardware, software, and embedded projects** across PCB design, electronics, robotics, and circuit analysis
-- 📡 Completed my first dedicated **RF PCB design project** with a 4-layer Bluetooth LE board
-- 🤖 **ROS 2 Intern at ArboTrix Lab**, working with robotics software, simulation, and autonomous systems
-- 🛠️ Active contributor/member in **IEEE PIEAS, InnovateX PIEAS, NYLP, and PIEAS Open House** activities
-- 📚 Completed **9 certifications and bootcamps** spanning programming, PCB design, AI, MATLAB, and machine learning
-
----
-
-## 🎓 Academic Excellence
-
-### 🎓 B.S. Electrical Engineering
-
-**Pakistan Institute of Engineering and Applied Sciences (PIEAS)**
-
-- **CGPA:** 3.99 / 4.00
-- Focus Areas:
-  - Electronics & Circuit Analysis
-  - Embedded Systems
-  - PCB Design
-  - Power Electronics
-  - Robotics
-  - RF & Wireless Hardware
-
-### 🏫 FSc Pre-Engineering
-
-**Federal College of Science and Commerce, Attock**
-
-- **Score:** 1025 / 1100
-- 🥇 **1st Position in Pre-Engineering**
-- 🥇 1st Position in FSc Part I
-- 🥇 1st Position in FSc Part II
-
-### 🏫 Secondary School Certificate
-
-**Federal Government Educational Institutions (FGEI), Wah Region**
-
-- **Score:** 985 / 1100
-- 🥈 **2nd Position at School Level**
-- Certificate of Appreciation for Academic Excellence
-
----
-
 ## 🚀 Current Focus
 
 - 🔷 Custom PCB Design using **KiCad & Altium Designer**
-- 📡 **RF & Antenna Matching** for wireless hardware
-- 🤖 **ROS 2 & Robotics Simulation**
-- ⚡ **Power Electronics & Switching Regulators**
+- 🤖 **Circuit Analysis and Simulation**
+- ⚡ **Power Electronics**
 - 🔌 **Embedded Systems Development**
 - 🧠 **High-Speed PCB Design**
-- 📚 **ESP32 & Advanced Embedded Architecture**
-
----
-
-## 📊 Quick Overview
-
-Name: Muhammad Sufyan
-Degree: B.S. Electrical Engineering
-University: PIEAS
-CGPA: 3.99 / 4.00
-
-Current Role:
-  ROS 2 Intern
-  ArboTrix Lab
-
-Core Interests:
-  - PCB Design
-  - RF / Wireless Hardware
-  - Embedded Systems
-  - Robotics & ROS 2
-  - Power Electronics
-  - Circuit Analysis
-  - Applied AI & Automation
-
-Primary Tools:
-  - KiCad
-  - Altium Designer
-  - MATLAB
-  - LTspice
-  - Multisim
-  - Git / GitHub
+- 📚 **ESP32 & Embedded Architecture**
 
 ---
 
